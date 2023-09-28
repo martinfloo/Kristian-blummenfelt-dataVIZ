@@ -1,4 +1,4 @@
-# Kristian-blummenfelt-dataVIZ
+# Kristian Blummenfelt Kona WC Performance -  vizualizaiton
 
 This notebook was created to delve into the dataset published by entalpi, Kristian Blummenfelt, and his team's company. The dataset encompasses Kristian Blummenfelt's remarkable marathon performance, securing third place in the KONA Ironman World Championship.
 
